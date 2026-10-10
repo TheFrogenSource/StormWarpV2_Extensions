@@ -1,2 +1,2 @@
-# StormWarpV2_Extensions
-Extension for StormWarpV2
+# StormWarpV2 Extensions
+Extension for StormWarp V2
